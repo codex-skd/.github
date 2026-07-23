@@ -8,7 +8,7 @@
 ## 🧩 Mods
 
 | Mod | Type | Version | GitHub |
-|---|---|---|---|---|
+| :--- | :--- | :--- | :--- |
 | **Ageforged Armor** | 🎨 Cosmetic | 🚧 Beta | *Próximamente* |
 | **Armor Cosmetic** | 🎨 Cosmetic | ✅ Release | *Próximamente* |
 | **Better Connections** | 🔧 Utility | ✅ Release | *Próximamente* |
