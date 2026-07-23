@@ -1,25 +1,50 @@
-# 📦 Codex — Stalking Dragons Mods
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://codex.skdragons.com/logo-dark.svg"><img alt="Codex SKD" src="https://codex.skdragons.com/logo.svg" height="48"></picture> Codex — Stalking Dragons
 
-> Minecraft mods for NeoForge, crafted by the Stalking Dragons team.
+> Minecraft mods for NeoForge. Crafted with care by the Stalking Dragons team.
+> Full showcase at **[codex.skdragons.com](https://codex.skdragons.com)**
+
+---
 
 ## 🧩 Mods
 
-| Mod | Description | MC Versions |
+| Mod | Minecraft | NeoForge | Status | GitHub |
+|---|---|---|---|---|
+| **Ageforged Armor** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Armor Cosmetic** | 1.21.1 (26.1.2) | 26.1.2.76 | ✅ Active | *Próximamente* |
+| **Better Connections** | 1.21.1 (26.1.2) | 26.1.2.78 | 🆕 New | *Próximamente* |
+| **Carry Mechanics** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Data Miner** | 1.21.1 (26.1.2) | 26.1.2.76 | ✅ Active | *Próximamente* |
+| **Dinamyc Combat** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Info TAB** | 1.21.1 (26.1.2) | 26.1.2 | ✅ Active | *Próximamente* |
+| **Player Activity View** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Player Animation Core** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Teleport Animation** | 1.21.1 / 26.1.2 | 21.1.235 / 26.1.2.78 | ✅ Active | [Teleport-Animation](https://github.com/codex-skd/Teleport-Animation) |
+| **Tower Waystone** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Active | *Próximamente* |
+| **Utility Core** | 1.21.1 (26.1.2) | 26.1.2.78 | ✅ Library | *Próximamente* |
+
+> **Note**: Minecraft 26.1.2 corresponds to MC 1.21.1. All mods target NeoForge.
+
+---
+
+## 🔧 Libraries & Tools
+
+| Project | Description | Links |
 |---|---|---|
-| [Ageforged Armor](https://github.com/codex-skd/Ageforged-Armor) | Cosmetic armor layers for any item | 1.21.1 |
-| [Armor Cosmetic](https://github.com/codex-skd/Armor-Cosmetic) | Equip cosmetic armor without replacing stats | 1.21.1 |
-| [Carry Mechanics](https://github.com/codex-skd/Carry-Mechanics) | Pick up and carry entities | 1.21.1 |
-| [Data Miner](https://github.com/codex-skd/Data-Miner) | Export any block/entity data to JSON/CSV | 1.21.1 |
-| [Dimension TAB](https://github.com/codex-skd/Dimension-TAB) | Per-dimension player list | 1.21.1 |
-| [Dinamyc Combat](https://github.com/codex-skd/Dinamyc-Combat) | Dynamic weapon stats based on materials | 1.21.1 |
-| [Player Activity View](https://github.com/codex-skd/Player-Activity-View) | Real-time player activity monitor | 1.21.1 |
-| [Player Animation Core](https://github.com/codex-skd/Player-Animation-Core) | Animation framework for player models | 1.21.1 |
-| [Teleport Animation](https://github.com/codex-skd/Teleport-Animation) | Smooth teleport with visual effects | 1.21.1 |
-| [Tower Waystone](https://github.com/codex-skd/Tower-Waystone) | Structure-based teleport network | 1.21.1 |
-| [Utility Core](https://github.com/codex-skd/Utility-Core) | Shared library for all mods | 1.21.1 |
+| **Utility Core** | Shared library used by all mods | [GitHub](https://github.com/codex-skd/Utility-Core) · *Próximamente* |
+| **Codex** | Mod showcase website | [codex.skdragons.com](https://codex.skdragons.com) |
+| **Codex Docs** | Workflow templates, scripts, docs | Internal (GitLab) |
 
-## 🔗 Quick Links
+---
 
-- 🌐 [codex-skd.github.io](https://codex-skd.github.io) — Full mod showcase
-- 🐙 [GitLab (internal)](https://gitlab.com/stalking-dragons/minecraft) — Source code & CI
-- 📖 [CurseForge](https://www.curseforge.com/members/stalkingdragons/projects) — Download mods
+## 🌐 Quick Links
+
+| | |
+|---|---|
+| 🌍 **Website** | [codex.skdragons.com](https://codex.skdragons.com) — Mod showcase & documentation |
+| 📦 **CurseForge** | [curseforge.com/members/stalkingdragons](https://www.curseforge.com/members/stalkingdragons/projects) — Downloads |
+| 🐙 **GitLab (private)** | [gitlab.com/stalking-dragons/minecraft](https://gitlab.com/stalking-dragons/minecraft) — Source code & CI |
+| 🐱 **GitHub (mirrors)** | [github.com/codex-skd](https://github.com/codex-skd) — Public mirrors |
+
+---
+
+> *All Rights Reserved unless explicitly stated otherwise in each project's license.*
