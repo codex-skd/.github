@@ -1,4 +1,4 @@
-# <picture><source media="(prefers-color-scheme: dark)" srcset="https://codex.skdragons.com/logo-dark.svg"><img alt="Codex SKD" src="https://node-files.skdragons.com/logo_codex_stalking_dragons.png" height="48"></picture> Codex — Stalking Dragons
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://codex.skdragons.com/logo-dark.svg"><img alt="Codex SKD" src="https://codex.skdragons.com/logo.svg" height="48"></picture> Codex — Stalking Dragons
 
 > Minecraft mods for NeoForge. Crafted with care by the Stalking Dragons team.
 > Full showcase at **[codex.skdragons.com](https://codex.skdragons.com)**
@@ -7,20 +7,20 @@
 
 ## 🧩 Mods
 
-| Mod | Minecraft | Type | Version | GitHub |
-| :--- | :--- | :--- | :--- | :--- |
-| **Ageforged Armor** | 1.21.1 | 🎨 Cosmetic | `0.0.0-beta.29` 🚧 | *Próximamente* |
-| **Armor Cosmetic** | 1.21.1 | 🎨 Cosmetic | `1.0.21` ✅ | *Próximamente* |
-| **Better Connections** | 1.21.1 | 🔧 Utility | `1.0.0` ✅ | *Próximamente* |
-| **Carry Mechanics** | 1.21.1 | 🎮 Gameplay | `0.0.0-beta.27` 🚧 | *Próximamente* |
-| **Data Miner** | 1.21.1 | 🛠️ Developer | `1.0.0` ✅ | *Próximamente* |
-| **Dinamyc Combat** | 1.21.1 | ⚔️ Combat | `1.0.4` ✅ | *Próximamente* |
-| **Info TAB** | 1.21.1 | 🖥️ UI | `1.0.2-beta.1` 🚧 | *Próximamente* |
-| **Player Activity View** | 1.21.1 | 📊 Monitoring | `0.0.0-beta.8` 🚧 | *Próximamente* |
-| **Player Animation Core** | 1.21.1 | 📚 Library | `1.0.0` ✅ | *Próximamente* |
-| **Teleport Animation** | 1.21.1 | ✨ Visual | `1.0.2` ✅ (Neo 21.1) / `0.0.0-beta.31` 🚧 (Neo 26.1) | [Teleport-Animation](https://github.com/codex-skd/Teleport-Animation) |
-| **Tower Waystone** | 1.21.1 | 🏰 Teleport | `1.0.18` ✅ | *Próximamente* |
-| **Utility Core** | 1.21.1 | 📚 Library | `1.0.32` ✅ | [utility_core](https://github.com/codex-skd/utility_core) |
+| Mod | Type | Version | GitHub |
+| :--- | :--- | :--- | :--- |
+| **Agerforged Armor** | 🎨 Cosmetic | `0.0.0-beta.29` 🚧 | [agerforged-armor](https://github.com/codex-skd/agerforged-armor) |
+| **Armor Cosmetic** | 🎨 Cosmetic | `1.0.21` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
+| **Better Connections** | 🔧 Utility | `1.0.0` ✅ | [better-connections](https://github.com/codex-skd/better-connections) |
+| **Carry Mechanics** | 🎮 Gameplay | `0.0.0-beta.27` 🚧 | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
+| **Data Miner** | 🛠️ Developer | `1.0.0` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
+| **Dinamyc Combat** | ⚔️ Combat | `1.0.4` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
+| **Info TAB** | 🖥️ UI | `1.0.2-beta.1` 🚧 | [info-tab](https://github.com/codex-skd/info-tab) |
+| **Player Activity View** | 📊 Monitoring | `0.0.0-beta.8` 🚧 | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
+| **Player Animation Core** | 📚 Library | `1.0.0` ✅ | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
+| **Teleport Animation** | ✨ Visual | `1.0.2` ✅ / `0.0.0-beta.31` 🚧 | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
+| **Tower Waystone** | 🏰 Teleport | `1.0.18` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
+| **Utility Core** | 📚 Library | `1.0.32` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
 
 ---
 
@@ -28,8 +28,8 @@
 
 | Library | Used by | GitHub |
 | :--- | :--- | :--- |
-| **Utility Core** | All mods | [utility_core](https://github.com/codex-skd/utility_core) |
-| **Player Animation Core** | Teleport Animation, Dinamyc Combat | *Próximamente* |
+| **Utility Core** | All mods | [utility-core](https://github.com/codex-skd/utility-core) |
+| **Player Animation Core** | Teleport Animation, Dinamyc Combat | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
 
 ---
 
