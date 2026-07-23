@@ -1,4 +1,4 @@
-# <picture><source media="(prefers-color-scheme: dark)" srcset="https://codex.skdragons.com/logo-dark.svg"><img alt="Codex SKD" src="[https://codex.skdragons.com/logo.svg](https://node-files.skdragons.com/logo_codex_stalking_dragons.png)" height="48"></picture> Codex — Stalking Dragons
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://codex.skdragons.com/logo-dark.svg"><img alt="Codex SKD" src="https://node-files.skdragons.com/logo_codex_stalking_dragons.png" height="48"></picture> Codex — Stalking Dragons
 
 > Minecraft mods for NeoForge. Crafted with care by the Stalking Dragons team.
 > Full showcase at **[codex.skdragons.com](https://codex.skdragons.com)**
