@@ -37,14 +37,16 @@
 
 | Modpack | CurseForge |
 | :--- | :--- |
-| **SKD - Exploration** | [866349](https://www.curseforge.com/minecraft/modpacks/866349) |
-| **SKD - Solo Leveling Pack** | [667116](https://www.curseforge.com/minecraft/modpacks/667116) |
-| **Crafted Kingdoms** | [1093889](https://www.curseforge.com/minecraft/modpacks/1093889) |
-| **Mystical Realms** | [1028423](https://www.curseforge.com/minecraft/modpacks/1028423) |
-| **EnchantVenture** | [934735](https://www.curseforge.com/minecraft/modpacks/934735) |
-| **SKD DC** | [1095590](https://www.curseforge.com/minecraft/modpacks/1095590) |
-| **SKD - Legacy Pack** | [909696](https://www.curseforge.com/minecraft/modpacks/909696) |
-| **SKD MineColonies** | [852641](https://www.curseforge.com/minecraft/modpacks/852641) |
+| Modpack | CurseForge ID |
+| :--- | :--- |
+| SKD - Exploration | [866349](https://www.curseforge.com/minecraft/modpacks/866349) |
+| SKD - Solo Leveling Pack | [667116](https://www.curseforge.com/minecraft/modpacks/667116) |
+| Crafted Kingdoms | [1093889](https://www.curseforge.com/minecraft/modpacks/1093889) |
+| Mystical Realms | [1028423](https://www.curseforge.com/minecraft/modpacks/1028423) |
+| EnchantVenture | [934735](https://www.curseforge.com/minecraft/modpacks/934735) |
+| SKD DC | [1095590](https://www.curseforge.com/minecraft/modpacks/1095590) |
+| SKD - Legacy Pack | [909696](https://www.curseforge.com/minecraft/modpacks/909696) |
+| SKD MineColonies | [852641](https://www.curseforge.com/minecraft/modpacks/852641) |
 
 ---
 
@@ -54,7 +56,6 @@
 | :--- | :--- |
 | 🌍 **Website** | [codex.skdragons.com](https://codex.skdragons.com) |
 | 📦 **CurseForge** | [curseforge.com/members/llaguit0/projects](https://www.curseforge.com/members/llaguit0/projects) |
-| 🐙 **GitLab (private)** | [gitlab.com/stalking-dragons/minecraft](https://gitlab.com/stalking-dragons/minecraft) |
 | 🐱 **GitHub** | [github.com/codex-skd](https://github.com/codex-skd) |
 
 ---
