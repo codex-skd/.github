@@ -36,16 +36,16 @@
 
 ## 📦 Featured in these Modpacks
 
-| Modpack | CurseForge ID |
-| :--- | :--- |
-| SKD - Exploration | [866349](https://www.curseforge.com/minecraft/modpacks/866349) |
-| SKD - Solo Leveling Pack | [667116](https://www.curseforge.com/minecraft/modpacks/667116) |
-| Crafted Kingdoms | [1093889](https://www.curseforge.com/minecraft/modpacks/1093889) |
-| Mystical Realms | [1028423](https://www.curseforge.com/minecraft/modpacks/1028423) |
-| EnchantVenture | [934735](https://www.curseforge.com/minecraft/modpacks/934735) |
-| SKD DC | [1095590](https://www.curseforge.com/minecraft/modpacks/1095590) |
-| SKD - Legacy Pack | [909696](https://www.curseforge.com/minecraft/modpacks/909696) |
-| SKD MineColonies | [852641](https://www.curseforge.com/minecraft/modpacks/852641) |
+| Modpack | MC Versions | CurseForge |
+| :--- | :--- | :--- |
+| SKD - Exploration | 1.19.2 → 1.20.1 → 26.1.2 | [866349](https://www.curseforge.com/minecraft/modpacks/866349) |
+| SKD - Solo Leveling Pack | 1.18.2 → 1.19.2 | [667116](https://www.curseforge.com/minecraft/modpacks/667116) |
+| Crafted Kingdoms | 1.20.1 | [1093889](https://www.curseforge.com/minecraft/modpacks/1093889) |
+| Mystical Realms | 1.20.1 | [1028423](https://www.curseforge.com/minecraft/modpacks/1028423) |
+| EnchantVenture | 1.20.1 → 1.21.1 → 26.2 | [934735](https://www.curseforge.com/minecraft/modpacks/934735) |
+| SKD DC | 1.20.1 → 1.21.1 | [1095590](https://www.curseforge.com/minecraft/modpacks/1095590) |
+| SKD - Legacy Pack | 26.1.2 | [909696](https://www.curseforge.com/minecraft/modpacks/909696) |
+| SKD MineColonies | 1.19.4 → 1.21.1 | [852641](https://www.curseforge.com/minecraft/modpacks/852641) |
 
 ---
 
