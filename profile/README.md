@@ -9,16 +9,17 @@
 
 | Mod | Type | Version | GitHub |
 | :--- | :--- | :--- | :--- |
-| **Ageforged Armor** | 🎨 Cosmetic | `0.0.0-beta.36` 🚧 | [ageforged-armor](https://github.com/codex-skd/ageforged-armor) |
+| **Ageforged Armor** | 🎨 Cosmetic | `0.0.0-beta.37` 🚧 | [ageforged-armor](https://github.com/codex-skd/ageforged-armor) |
 | **Armor Cosmetic** | 🎨 Cosmetic | `1.0.21` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
 | **Better Connections** | 🔧 Utility | `1.0.0` ✅ | [better-connections](https://github.com/codex-skd/better-connections) |
-| **Carry Mechanics** | 🎮 Gameplay | `0.0.0-beta.34` 🚧 | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
+| **Carry Mechanics** | 🎮 Gameplay | `0.0.0-beta.35` 🚧 | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
 | **Data Miner** | 🛠️ Developer | `1.0.1` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
-| **Dinamyc Combat** | ⚔️ Combat | `1.0.4` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
+| **Dinamyc Combat** | ⚔️ Combat | `1.0.5` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
 | **Info TAB** | 🖥️ UI | `1.0.2-beta.7` 🚧 | [info-tab](https://github.com/codex-skd/info-tab) |
 | **Player Activity View** | 📊 Monitoring | `0.0.0-beta.11` 🚧 | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
 | **Player Animation Core** | 📚 Library | `1.0.0` ✅ | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
-| **Teleport Animation** | ✨ Visual | `1.0.2` ✅ / `0.0.0-beta.37` 🚧 | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
+| **SKD Menu** | 🖥️ UI | `0.0.0-beta.4` 🚧 | [skd-menu](https://github.com/codex-skd/skd-menu) |
+| **Teleport Animation** | ✨ Visual | `1.0.2` ✅ / `0.0.0-beta.40` 🚧 | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
 | **Tower Waystone** | 🏰 Teleport | `1.0.18` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
 | **Utility Core** | 📚 Library | `1.1.0` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
 
@@ -35,8 +36,6 @@
 
 ## 📦 Featured in these Modpacks
 
-| Modpack | CurseForge |
-| :--- | :--- |
 | Modpack | CurseForge ID |
 | :--- | :--- |
 | SKD - Exploration | [866349](https://www.curseforge.com/minecraft/modpacks/866349) |
