@@ -9,19 +9,33 @@
 
 | Mod | Type | Version | GitHub |
 | :--- | :--- | :--- | :--- |
-| **Ageforged Armor** | 🎨 Cosmetic | `0.0.0-beta.37` 🚧 | [ageforged-armor](https://github.com/codex-skd/ageforged-armor) |
-| **Armor Cosmetic** | 🎨 Cosmetic | `1.0.21` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
+| **Ageforged Armor** | 🎨 Cosmetic | `1.0.3` ✅ / `1.1.3` ✅ | [ageforged-armor](https://github.com/codex-skd/ageforged-armor) |
+| **Armor Cosmetic** | 🎨 Cosmetic | `1.0.22` ✅ / `1.0.3` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
+| **Ascendant Equipment** | 🎮 Gameplay | `0.0.0-beta.1` 🚧 | [ascendant-equipment](https://github.com/codex-skd/ascendant-equipment) |
 | **Better Connections** | 🔧 Utility | `1.0.0` ✅ | [better-connections](https://github.com/codex-skd/better-connections) |
-| **Carry Mechanics** | 🎮 Gameplay | `0.0.0-beta.35` 🚧 | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
-| **Data Miner** | 🛠️ Developer | `1.0.1` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
-| **Dinamyc Combat** | ⚔️ Combat | `1.0.5` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
-| **Info TAB** | 🖥️ UI | `1.0.2-beta.7` 🚧 | [info-tab](https://github.com/codex-skd/info-tab) |
-| **Player Activity View** | 📊 Monitoring | `0.0.0-beta.11` 🚧 | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
-| **Player Animation Core** | 📚 Library | `1.0.0` ✅ | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
-| **SKD Menu** | 🖥️ UI | `0.0.0-beta.4` 🚧 | [skd-menu](https://github.com/codex-skd/skd-menu) |
-| **Teleport Animation** | ✨ Visual | `1.0.2` ✅ / `0.0.0-beta.40` 🚧 | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
-| **Tower Waystone** | 🏰 Teleport | `1.0.18` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
-| **Utility Core** | 📚 Library | `1.1.0` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
+| **Carry Mechanics** | 🎮 Gameplay | `1.0.1` ✅ / `1.0.4` ✅ | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
+| **Common Toolkit** | 📚 Library | `0.0.0-beta.1` 🚧 | [common-toolkit](https://github.com/codex-skd/common-toolkit) |
+| **Data Miner** | 🛠️ Developer | `1.0.1` ✅ / `1.0.0` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
+| **Dinamyc Combat** | ⚔️ Combat | `1.0.6` ✅ / `1.0.1` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
+| **Equivalent Legacy** | 🧙 Magic | `1.0.2` ✅ | [equivalent-legacy](https://github.com/codex-skd/equivalent-legacy) |
+| **Info TAB** | 🖥️ UI | `1.0.6` ✅ / `1.0.0` ✅ | [info-tab](https://github.com/codex-skd/info-tab) |
+| **Player Activity View** | 📊 Monitoring | `1.0.1` ✅ / `1.0.0` ✅ | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
+| **Player Animation Core** | 📚 Library | `1.0.1` ✅ / `1.0.1` ✅ | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
+| **SKD Menu** | 🖥️ UI | `1.0.2` ✅ | [skd-menu](https://github.com/codex-skd/skd-menu) |
+| **Teleport Animation** | ✨ Visual | `1.0.1` ✅ / `1.0.1` ✅ | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
+| **Tower Waystone** | 🏰 Teleport | `1.2.3` ✅ / `1.0.1` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
+| **Utility Core** | 📚 Library | `1.7.1` ✅ / `1.7.0` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
+
+> Versión mostrada por versión de MC (`26.1.2` / `26.2`) cuando el mod tiene ambas; una sola cifra si solo existe para una.
+
+---
+
+## 🧱 Datapacks & Resource Packs
+
+| Name | Type | GitHub |
+| :--- | :--- | :--- |
+| **EnchantVenture Fixes** | 🩹 Datapack | [enchantventure-fixes](https://github.com/codex-skd/enchantventure-fixes) |
+| **EnchantVenture Translations** | 🌍 Resource Pack | [enchantventure-translations](https://github.com/codex-skd/enchantventure-translations) |
 
 ---
 
