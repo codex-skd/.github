@@ -10,32 +10,26 @@
 | Mod | Type | Version | GitHub |
 | :--- | :--- | :--- | :--- |
 | **Ageforged Armor** | 🎨 Cosmetic | `1.0.4` ✅ / `1.2.7` ✅ | [ageforged-armor](https://github.com/codex-skd/ageforged-armor) |
-| **Armor Cosmetic** | 🎨 Cosmetic | `1.0.23` ✅ / `1.1.18` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
-| **Ascendant Attributes** | 📚 Library | `1.1.0` ✅ | [ascendant-attributes](https://github.com/codex-skd/ascendant-attributes) |
-| **Ascendant Enchanting** | 🎮 Gameplay | `1.1.0` ✅ | [ascendant-enchanting](https://github.com/codex-skd/ascendant-enchanting) |
-| **Ascendant Equipment** | 🎮 Gameplay | `1.2.1` ✅ | [ascendant-equipment](https://github.com/codex-skd/ascendant-equipment) |
-| **Ascendant Spawners** | 🎮 Gameplay | `1.0.0` ✅ | [ascendant-spawners](https://github.com/codex-skd/ascendant-spawners) |
+| **Armor Cosmetic** | 🎨 Cosmetic | `1.0.0` ✅ / `1.0.23` ✅ / `1.1.18` ✅ | [armor-cosmetic](https://github.com/codex-skd/armor-cosmetic) |
 | **Better Connections** | 🔧 Utility | `1.0.1` ✅ / `1.1.0` ✅ | [better-connections](https://github.com/codex-skd/better-connections) |
-| **Carry Mechanics** | 🎮 Gameplay | `1.0.2` ✅ / `1.1.0` ✅ | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
-| **Common Toolkit** | 📚 Library | `1.1.0` ✅ | [common-toolkit](https://github.com/codex-skd/common-toolkit) |
-| **Data Miner** | 🛠️ Developer | `1.0.2` ✅ / `1.2.0` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
-| **Dinamyc Combat** | ⚔️ Combat | `1.0.7` ✅ / `1.1.0` ✅ | [dinamyc-combat](https://github.com/codex-skd/dinamyc-combat) |
-| **Equivalent Legacy** | 🧙 Magic | `1.6.2` ✅ | [equivalent-legacy](https://github.com/codex-skd/equivalent-legacy) |
-| **Info TAB** | 🖥️ UI | `1.0.7` ✅ / `1.1.0` ✅ | [info-tab](https://github.com/codex-skd/info-tab) |
-| **Player Activity View** | 📊 Monitoring | `1.0.2` ✅ / `1.1.0` ✅ | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
-| **Player Animation Core** | 📚 Library | `1.0.2` ✅ / `1.1.0` ✅ | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
-| **SKD Menu** | 🖥️ UI | `1.2.4` ✅ | [skd-menu](https://github.com/codex-skd/skd-menu) |
-| **Teleport Animation** | ✨ Visual | `1.0.4` ✅ / `1.0.3` ✅ / `1.2.0` ✅ | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
-| **Tower Waystone** | 🏰 Teleport | `1.2.5` ✅ / `1.1.0` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
-| **Utility Core** | 📚 Library | `1.11.2` ✅ / `2.5.1·2.4.0·2.4.0·1.0.0` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
-| **Vellumli** | 📚 Library | `1.2.0` ✅ | [vellumli](https://github.com/codex-skd/vellumli) |
-| **Workhand Tools** | 🛠️ Tools | `1.22.4` ✅ | [workhand-tools](https://github.com/codex-skd/workhand-tools) |
-| **Nautilus API** | 📚 Library | `0.1.0-beta.1` 🚧 | [nautilus-api](https://github.com/codex-skd/nautilus-api) |
-| **Slaughter Hide** | 🎮 Gameplay | `0.0.0-beta.32` 🚧 | [slaughter-hide](https://github.com/codex-skd/slaughter-hide) |
-| **Vault Drawers** | 📦 Storage | `0.0.0-beta.2` 🚧 | [vault-drawers](https://github.com/codex-skd/vault-drawers) |
-| **Cataclysm Bosses** | 🎮 Gameplay | `0.0.0-beta.3` 🚧 | [cataclysm-bosses](https://github.com/codex-skd/cataclysm-bosses) |
+| **Carry Mechanics** | 🎮 Gameplay | `0.0.0-beta.2` 🚧 / `1.0.2` ✅ / `1.1.0` ✅ | [carry-mechanics](https://github.com/codex-skd/carry-mechanics) |
+| **Common Toolkit** | 📚 Library | `0.0.0-beta.3` 🚧 / `1.1.0` ✅ | [common-toolkit](https://github.com/codex-skd/common-toolkit) |
+| **Data Miner** | 🛠️ Developer | `0.0.0-beta.2` 🚧 / `1.0.2` ✅ / `1.2.1` ✅ | [data-miner](https://github.com/codex-skd/data-miner) |
+| **Equivalent Legacy** | 🧙 Magic | `0.0.0-beta.4` 🚧 / `1.6.5` ✅ | [equivalent-legacy](https://github.com/codex-skd/equivalent-legacy) |
+| **Info TAB** | 🖥️ UI | `0.0.0-beta.1` 🚧 / `1.0.7` ✅ / `1.1.0` ✅ | [info-tab](https://github.com/codex-skd/info-tab) |
+| **Player Activity View** | 📊 Monitoring | `0.0.0-beta.1` 🚧 / `1.0.2` ✅ / `1.1.0` ✅ | [player-activity-view](https://github.com/codex-skd/player-activity-view) |
+| **Regalia Slots API** | 📚 Library | `0.0.0-beta.12` 🚧 / `1.1.3` ✅ | [regalia-slots-api](https://github.com/codex-skd/regalia-slots-api) |
+| **SKD Menu** | 🖥️ UI | `0.0.0-beta.4` 🚧 / `1.2.5` ✅ | [skd-menu](https://github.com/codex-skd/skd-menu) |
+| **Teleport Animation** | ✨ Visual | `1.1.0` ✅ / `1.0.3` ✅ / `1.2.0` ✅ | [teleport-animation](https://github.com/codex-skd/teleport-animation) |
+| **Tower Waystone** | 🏰 Teleport | `1.2.5` ✅ / `1.1.1` ✅ | [tower-waystone](https://github.com/codex-skd/tower-waystone) |
+| **Utility Core** | 📚 Library | `1.11.2` ✅ / `2.5.1·2.4.0·2.4.0·1.1.0` ✅ | [utility-core](https://github.com/codex-skd/utility-core) |
+| **Vellumli** | 📚 Library | `0.0.0-beta.1` 🚧 / `1.2.0` ✅ | [vellumli](https://github.com/codex-skd/vellumli) |
+| **Workhand Tools** | 🛠️ Tools | `0.0.0-beta.3` 🚧 / `1.23.2` ✅ | [workhand-tools](https://github.com/codex-skd/workhand-tools) |
+| **Utility Nexus Admin** | 🔧 Utility | `0.0.0-beta.13` 🚧 | [utility-nexus-admin](https://github.com/codex-skd/utility-nexus-admin) |
+| **Utility Nexus Fixes** | 🔧 Utility | `0.0.0-beta.3` 🚧 | [utility-nexus-fixes](https://github.com/codex-skd/utility-nexus-fixes) |
+| **Vault Drawers** | 📦 Storage | `0.0.0-beta.9` 🚧 | [vault-drawers](https://github.com/codex-skd/vault-drawers) |
 
-> Versión mostrada por versión de MC (`26.1.2` / `26.2`, y `1.21.1` en Teleport Animation) cuando el mod tiene varias; una sola cifra si solo existe para una. `2.4.0·2.3.0·2.3.0` en Utility Core = fixes/admin/qol. Actualizado 2026-08-25.
+> Versión mostrada por versión de MC en orden ascendente — `1.21.1` / `26.1.2` / `26.2` (Teleport Animation empieza en `1.20.1`) — cuando el mod tiene varias ramas; una sola cifra si solo existe para una. Los `0.0.0-beta.*` de `1.21.1` son la oleada de back-ports (aún pre-release). `2.5.1·2.4.0·2.4.0·1.1.0` en Utility Core = fixes/admin/qol/hud. Actualizado 2026-09-03. **Retirados el 2026-09-03**: Ascendant Attributes/Enchanting/Equipment/Spawners, Cataclysm Bosses, Dinamyc Combat, Nautilus API, Player Animation Core, Slaughter Hide (auditoría de licencias/ports).
 
 ---
 
@@ -45,6 +39,7 @@
 | :--- | :--- | :--- |
 | **EnchantVenture Fixes** | 🩹 Datapack | [enchantventure-fixes](https://github.com/codex-skd/enchantventure-fixes) |
 | **EnchantVenture Pack** | 🌍 Resource Pack | [enchantventure-pack](https://github.com/codex-skd/enchantventure-pack) |
+| **Mystical Realms Translation & Fixes** | 🌍 Resource Pack | [mystical-realms-resource-pack](https://github.com/codex-skd/mystical-realms-resource-pack) |
 
 ---
 
@@ -53,9 +48,9 @@
 | Library | Used by | GitHub |
 | :--- | :--- | :--- |
 | **Utility Core** | All mods | [utility-core](https://github.com/codex-skd/utility-core) |
-| **Player Animation Core** | Teleport Animation, Dinamyc Combat | [player-animation-core](https://github.com/codex-skd/player-animation-core) |
-| **Common Toolkit** | Ascendant series (fork of Placebo) | [common-toolkit](https://github.com/codex-skd/common-toolkit) |
-| **Ascendant Attributes** | Ascendant Enchanting (fork of Apothic Attributes) | [ascendant-attributes](https://github.com/codex-skd/ascendant-attributes) |
+| **Common Toolkit** | Fork of Placebo (MIT + LGPL-2.1) | [common-toolkit](https://github.com/codex-skd/common-toolkit) |
+| **Regalia Slots API** | Curios-compatible slots (fork of Curios API, LGPL-3.0) | [regalia-slots-api](https://github.com/codex-skd/regalia-slots-api) |
+| **Vellumli** | Patchouli-style guide books | [vellumli](https://github.com/codex-skd/vellumli) |
 
 ---
 
