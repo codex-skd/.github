@@ -9,33 +9,33 @@
 
 | Mod | Type | Versions | GitHub | CurseForge |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ageforged Armor** | 🛡️ Armor | **26.1.2** `1.0.4` ✅<br>**26.2** `1.2.7` ✅ | [ageforged‑armor](https://github.com/codex-skd/ageforged-armor) | [ageforged‑armor](https://www.curseforge.com/minecraft/mc-mods/ageforged-armor) |
-| **Almanac Core** | 📚 Library | **1.21.1** `0.0.0-beta.2` 🚧 | _pending_ | [almanac‑core](https://www.curseforge.com/minecraft/mc-mods/almanac-core) |
-| **Armor Cosmetic** | 🛡️ Armor | **26.2** `1.1.18` ✅<br>**26.1.2** `1.0.23` ✅<br>**1.21.1** `1.0.1` ✅ | [armor‑cosmetic](https://github.com/codex-skd/armor-cosmetic) | [armor‑cosmetic](https://www.curseforge.com/minecraft/mc-mods/armor-cosmetic) |
-| **Astral Core** | 📚 Library | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [astral‑core](https://www.curseforge.com/minecraft/mc-mods/astral-core) |
-| **Better Connections** | 🎮 Mechanics | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.1` ✅<br>**1.21.1** `0.0.0-beta.2` 🚧 | [better‑connections](https://github.com/codex-skd/better-connections) | [better‑connections](https://www.curseforge.com/minecraft/mc-mods/better-connections) |
-| **Carry Mechanics** | 🎮 Mechanics | **1.21.1** `1.0.1` ✅<br>**26.1.2** `1.0.2` ✅<br>**26.2** `1.1.0` ✅<br>**26.2** Fabric `1.0.2` ✅ | [carry‑mechanics](https://github.com/codex-skd/carry-mechanics) | [carry‑mechanics](https://www.curseforge.com/minecraft/mc-mods/carry-mechanics) |
-| **Chain Crafter** | 🔧 Utility | **1.21.1** `0.0.0-beta.3` 🚧 | _pending_ | [chain‑crafter](https://www.curseforge.com/minecraft/mc-mods/chain-crafter) |
-| **Common Toolkit** | 📚 Library | **26.2** `1.1.0` ✅<br>**1.21.1** `0.0.0-beta.3` 🚧 | [common‑toolkit](https://github.com/codex-skd/common-toolkit) | [common‑toolkit](https://www.curseforge.com/minecraft/mc-mods/common-toolkit) |
-| **Data Miner** | 🛠️ Tools | **26.2** `1.2.1` ✅<br>**26.2** Fabric `1.0.2` ✅<br>**26.1.2** `1.0.2` ✅<br>**1.21.1** `1.0.0` ✅ | [data‑miner](https://github.com/codex-skd/data-miner) | [data‑miner](https://www.curseforge.com/minecraft/mc-mods/data-miner) |
-| **Equivalent Legacy** | 🎮 Mechanics | **26.2** `1.6.5` ✅<br>**1.21.1** `1.0.3` ✅ | [equivalent‑legacy](https://github.com/codex-skd/equivalent-legacy) | [equivalent‑legacy](https://www.curseforge.com/minecraft/mc-mods/equivalent-legacy) |
-| **Expedition Core** | 📚 Library | **1.21.1** `0.0.0-beta.2` 🚧 | _pending_ | [expedition‑core](https://www.curseforge.com/minecraft/mc-mods/expedition-core) |
-| **Info TAB** | 🔧 Utility | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.7` ✅<br>**1.21.1** `1.0.0` ✅ | [info‑tab](https://github.com/codex-skd/info-tab) | [info‑tab](https://www.curseforge.com/minecraft/mc-mods/info-tab) |
-| **Majestic** | 🎮 Mechanics | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [majestic](https://www.curseforge.com/minecraft/mc-mods/majestic) |
-| **Motorcade** | 🎮 Mechanics | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [motorcade](https://www.curseforge.com/minecraft/mc-mods/motorcade) |
-| **Mystical Realms Modpack Fixes** | 🔧 Utility | **1.21.1** `1.2.1` ✅ | _pending_ | [mystical‑realms‑modpack‑fixes](https://www.curseforge.com/minecraft/mc-mods/mystical-realms-modpack-fixes) |
-| **Player Activity View** | 🔧 Utility | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.2` ✅<br>**1.21.1** `0.0.0-beta.1` 🚧<br>**26.2** Fabric `1.0.1` ✅ | [player‑activity‑view](https://github.com/codex-skd/player-activity-view) | [player‑activity‑view](https://www.curseforge.com/minecraft/mc-mods/player-activity-view) |
-| **Regalia Slots API** | 📚 Library | **26.2** `1.1.3` ✅<br>**1.21.1** `1.0.1` ✅ | [regalia‑slots‑api](https://github.com/codex-skd/regalia-slots-api) | [regalia‑slots‑api](https://www.curseforge.com/minecraft/mc-mods/regalia-slots-api) |
-| **SKD Menu** | 🔧 Utility | **26.2** `1.2.5` ✅<br>**1.21.1** `1.0.0` ✅ | [skd‑menu](https://github.com/codex-skd/skd-menu) | [skd‑menu](https://www.curseforge.com/minecraft/mc-mods/skd-menu) |
-| **Storage Bridge** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | _pending_ | [storage‑bridge](https://www.curseforge.com/minecraft/mc-mods/storage-bridge) |
-| **Teleport Animation** | 🎮 Mechanics | **26.2** `1.2.0` ✅<br>**26.1.2** `1.0.3` ✅<br>**1.21.1** `1.2.2` ✅<br>**1.20.1** `0.0.0-beta.2` 🚧 | [teleport‑animation](https://github.com/codex-skd/teleport-animation) | [teleport‑animation](https://www.curseforge.com/minecraft/mc-mods/teleport-animation) |
-| **Tick Smoothing** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | [tick‑smoothing](https://github.com/codex-skd/tick-smoothing) | [tick‑smoothing](https://www.curseforge.com/minecraft/mc-mods/tick-smoothing) |
-| **Utility Core** | 📚 Library | **26.2** Fixes `2.5.1` ✅<br>**26.2** Admin `2.4.0` ✅<br>**26.2** QoL `2.4.0` ✅<br>**26.2** HUD `1.1.0` ✅<br>**26.1.2** `1.11.2` ✅ | [utility‑core](https://github.com/codex-skd/utility-core) | [utility‑core](https://www.curseforge.com/minecraft/mc-mods/utility-core) |
-| **Utility Nexus Admin** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | [utility‑nexus‑admin](https://github.com/codex-skd/utility-nexus-admin) | [utility‑nexus‑admin](https://www.curseforge.com/minecraft/mc-mods/utility-nexus-admin) |
-| **Utility Nexus QoL** | 🔧 Utility | **1.21.1** `1.1.3` ✅ | [utility‑nexus‑qol](https://github.com/codex-skd/utility-nexus-qol) | [utility‑nexus‑qol](https://www.curseforge.com/minecraft/mc-mods/utility-nexus-qol) |
-| **Vault Drawers** | 🔧 Utility | **26.2** `0.0.0-beta.9` 🚧 | [vault‑drawers](https://github.com/codex-skd/vault-drawers) | [vault‑drawers](https://www.curseforge.com/minecraft/mc-mods/vault-drawers) |
-| **Vellumli** | 📚 Library | **26.2** `1.2.0` ✅<br>**1.21.1** `1.0.0` ✅ | [vellumli](https://github.com/codex-skd/vellumli) | [vellumli](https://www.curseforge.com/minecraft/mc-mods/vellumli) |
-| **Workhand Tools** | 🛠️ Tools | **26.2** `1.23.2` ✅<br>**1.21.1** `1.4.0` ✅ | [workhand‑tools](https://github.com/codex-skd/workhand-tools) | [workhand‑tools](https://www.curseforge.com/minecraft/mc-mods/workhand-tools) |
+| **Ageforged Armor** | 🛡️ Armor | **26.1.2** `1.0.4` ✅<br>**26.2** `1.2.7` ✅ | [Ageforged Armor](https://github.com/codex-skd/ageforged-armor) | [Ageforged Armor](https://www.curseforge.com/minecraft/mc-mods/ageforged-armor) |
+| **Almanac Core** | 📚 Library | **1.21.1** `0.0.0-beta.2` 🚧 | _pending_ | [Almanac Core](https://www.curseforge.com/minecraft/mc-mods/almanac-core) |
+| **Armor Cosmetic** | 🛡️ Armor | **26.2** `1.1.18` ✅<br>**26.1.2** `1.0.23` ✅<br>**1.21.1** `1.0.1` ✅ | [Armor Cosmetic](https://github.com/codex-skd/armor-cosmetic) | [Armor Cosmetic](https://www.curseforge.com/minecraft/mc-mods/armor-cosmetic) |
+| **Astral Core** | 📚 Library | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [Astral Core](https://www.curseforge.com/minecraft/mc-mods/astral-core) |
+| **Better Connections** | 🎮 Mechanics | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.1` ✅<br>**1.21.1** `0.0.0-beta.2` 🚧 | [Better Connections](https://github.com/codex-skd/better-connections) | [Better Connections](https://www.curseforge.com/minecraft/mc-mods/better-connections) |
+| **Carry Mechanics** | 🎮 Mechanics | **1.21.1** `1.0.1` ✅<br>**26.1.2** `1.0.2` ✅<br>**26.2** `1.1.0` ✅<br>**26.2** Fabric `1.0.2` ✅ | [Carry Mechanics](https://github.com/codex-skd/carry-mechanics) | [Carry Mechanics](https://www.curseforge.com/minecraft/mc-mods/carry-mechanics) |
+| **Chain Crafter** | 🔧 Utility | **1.21.1** `0.0.0-beta.3` 🚧 | _pending_ | [Chain Crafter](https://www.curseforge.com/minecraft/mc-mods/chain-crafter) |
+| **Common Toolkit** | 📚 Library | **26.2** `1.1.0` ✅<br>**1.21.1** `0.0.0-beta.3` 🚧 | [Common Toolkit](https://github.com/codex-skd/common-toolkit) | [Common Toolkit](https://www.curseforge.com/minecraft/mc-mods/common-toolkit) |
+| **Data Miner** | 🛠️ Tools | **26.2** `1.2.1` ✅<br>**26.2** Fabric `1.0.2` ✅<br>**26.1.2** `1.0.2` ✅<br>**1.21.1** `1.0.0` ✅ | [Data Miner](https://github.com/codex-skd/data-miner) | [Data Miner](https://www.curseforge.com/minecraft/mc-mods/data-miner) |
+| **Equivalent Legacy** | 🎮 Mechanics | **26.2** `1.6.5` ✅<br>**1.21.1** `1.0.3` ✅ | [Equivalent Legacy](https://github.com/codex-skd/equivalent-legacy) | [Equivalent Legacy](https://www.curseforge.com/minecraft/mc-mods/equivalent-legacy) |
+| **Expedition Core** | 📚 Library | **1.21.1** `0.0.0-beta.2` 🚧 | _pending_ | [Expedition Core](https://www.curseforge.com/minecraft/mc-mods/expedition-core) |
+| **Info TAB** | 🔧 Utility | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.7` ✅<br>**1.21.1** `1.0.0` ✅ | [Info TAB](https://github.com/codex-skd/info-tab) | [Info TAB](https://www.curseforge.com/minecraft/mc-mods/info-tab) |
+| **Majestic** | 🎮 Mechanics | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [Majestic](https://www.curseforge.com/minecraft/mc-mods/majestic) |
+| **Motorcade** | 🎮 Mechanics | **1.21.1** `0.0.0-beta.1` 🚧 | _pending_ | [Motorcade](https://www.curseforge.com/minecraft/mc-mods/motorcade) |
+| **Mystical Realms Modpack Fixes** | 🔧 Utility | **1.21.1** `1.2.1` ✅ | _pending_ | [Mystical Realms Modpack Fixes](https://www.curseforge.com/minecraft/mc-mods/mystical-realms-modpack-fixes) |
+| **Player Activity View** | 🔧 Utility | **26.2** `1.1.0` ✅<br>**26.1.2** `1.0.2` ✅<br>**1.21.1** `0.0.0-beta.1` 🚧<br>**26.2** Fabric `1.0.1` ✅ | [Player Activity View](https://github.com/codex-skd/player-activity-view) | [Player Activity View](https://www.curseforge.com/minecraft/mc-mods/player-activity-view) |
+| **Regalia Slots API** | 📚 Library | **26.2** `1.1.3` ✅<br>**1.21.1** `1.0.1` ✅ | [Regalia Slots API](https://github.com/codex-skd/regalia-slots-api) | [Regalia Slots API](https://www.curseforge.com/minecraft/mc-mods/regalia-slots-api) |
+| **SKD Menu** | 🔧 Utility | **26.2** `1.2.5` ✅<br>**1.21.1** `1.0.0` ✅ | [SKD Menu](https://github.com/codex-skd/skd-menu) | [SKD Menu](https://www.curseforge.com/minecraft/mc-mods/skd-menu) |
+| **Storage Bridge** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | _pending_ | [Storage Bridge](https://www.curseforge.com/minecraft/mc-mods/storage-bridge) |
+| **Teleport Animation** | 🎮 Mechanics | **26.2** `1.2.0` ✅<br>**26.1.2** `1.0.3` ✅<br>**1.21.1** `1.2.2` ✅<br>**1.20.1** `0.0.0-beta.2` 🚧 | [Teleport Animation](https://github.com/codex-skd/teleport-animation) | [Teleport Animation](https://www.curseforge.com/minecraft/mc-mods/teleport-animation) |
+| **Tick Smoothing** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | [Tick Smoothing](https://github.com/codex-skd/tick-smoothing) | [Tick Smoothing](https://www.curseforge.com/minecraft/mc-mods/tick-smoothing) |
+| **Utility Core** | 📚 Library | **26.2** Fixes `2.5.1` ✅<br>**26.2** Admin `2.4.0` ✅<br>**26.2** QoL `2.4.0` ✅<br>**26.2** HUD `1.1.0` ✅<br>**26.1.2** `1.11.2` ✅ | [Utility Core](https://github.com/codex-skd/utility-core) | [Utility Core](https://www.curseforge.com/minecraft/mc-mods/utility-core) |
+| **Utility Nexus Admin** | 🔧 Utility | **1.21.1** `1.0.0` ✅ | [Utility Nexus Admin](https://github.com/codex-skd/utility-nexus-admin) | [Utility Nexus Admin](https://www.curseforge.com/minecraft/mc-mods/utility-nexus-admin) |
+| **Utility Nexus QoL** | 🔧 Utility | **1.21.1** `1.1.3` ✅ | [Utility Nexus QoL](https://github.com/codex-skd/utility-nexus-qol) | [Utility Nexus QoL](https://www.curseforge.com/minecraft/mc-mods/utility-nexus-qol) |
+| **Vault Drawers** | 🔧 Utility | **26.2** `0.0.0-beta.9` 🚧 | [Vault Drawers](https://github.com/codex-skd/vault-drawers) | [Vault Drawers](https://www.curseforge.com/minecraft/mc-mods/vault-drawers) |
+| **Vellumli** | 📚 Library | **26.2** `1.2.0` ✅<br>**1.21.1** `1.0.0` ✅ | [Vellumli](https://github.com/codex-skd/vellumli) | [Vellumli](https://www.curseforge.com/minecraft/mc-mods/vellumli) |
+| **Workhand Tools** | 🛠️ Tools | **26.2** `1.23.2` ✅<br>**1.21.1** `1.4.0` ✅ | [Workhand Tools](https://github.com/codex-skd/workhand-tools) | [Workhand Tools](https://www.curseforge.com/minecraft/mc-mods/workhand-tools) |
 
 > **Versions** are shown per Minecraft target directly, e.g. `**26.2** 1.1.0 ✅` — no need to decode any ordering. ✅ = stable release, 🚧 = beta/pre-release. `Utility Core` bundles 4 modules for 26.2 (Fixes/Admin/QoL/HUD) plus a legacy single-mod build for 26.1.2, all from one repo.
 >
@@ -47,10 +47,12 @@
 
 ## 🧱 Datapacks & Resource Packs
 
-| Name | Type | Minecraft | CurseForge |
-| :--- | :--- | :--- | :--- |
-| **Mystical Realms Data-Pack** | 🧱 Data Pack | `1.21.1` 🚧 | [1677072](https://www.curseforge.com/minecraft/data-packs/mystical-realms-data-pack) |
-| **Mystical Realms Translation & Fixes** | 🌍 Resource Pack | `1.21.1` ✅ | [1679111](https://www.curseforge.com/minecraft/resource-packs/mystical-realms-translation-fixes) |
+| Name | Type | Minecraft | Version | GitHub | CurseForge |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **EnchantVenture Fixes** | 🧱 Data Pack | `26.2` | `0.0.0-beta.11` 🚧 | [EnchantVenture Fixes](https://github.com/codex-skd/enchantventure-fixes) | [EnchantVenture Fixes](https://www.curseforge.com/minecraft/data-packs/enchantventure-fixes) |
+| **EnchantVenture Pack** | 🌍 Resource Pack | `26.2` | `1.7.0` ✅ | [EnchantVenture Pack](https://github.com/codex-skd/enchantventure-pack) | [EnchantVenture Pack](https://www.curseforge.com/minecraft/texture-packs/enchantventure-translations) |
+| **Mystical Realms Data-Pack** | 🧱 Data Pack | `1.21.1` | `1.0.0-beta.6` 🚧 | _pending_ | [Mystical Realms Data-Pack](https://www.curseforge.com/minecraft/data-packs/mystical-realms-data-pack) |
+| **Mystical Realms Translation & Fixes** | 🌍 Resource Pack | `1.21.1` | `1.0.1` ✅ | [Mystical Realms Translation & Fixes](https://github.com/codex-skd/mystical-realms-resource-pack) | [Mystical Realms Translation & Fixes](https://www.curseforge.com/minecraft/resource-packs/mystical-realms-translation-fixes) |
 
 ---
 
@@ -58,13 +60,13 @@
 
 | Library | Used by | GitHub | CurseForge |
 | :--- | :--- | :--- | :--- |
-| **Utility Core** | All mods | [utility‑core](https://github.com/codex-skd/utility-core) | [utility‑core](https://www.curseforge.com/minecraft/mc-mods/utility-core) |
-| **Common Toolkit** | Fork of Placebo (MIT + LGPL-2.1) | [common‑toolkit](https://github.com/codex-skd/common-toolkit) | [common‑toolkit](https://www.curseforge.com/minecraft/mc-mods/common-toolkit) |
-| **Regalia Slots API** | Curios-compatible slots (fork of Curios API, LGPL-3.0) | [regalia‑slots‑api](https://github.com/codex-skd/regalia-slots-api) | [regalia‑slots‑api](https://www.curseforge.com/minecraft/mc-mods/regalia-slots-api) |
-| **Vellumli** | Patchouli-style guide books | [vellumli](https://github.com/codex-skd/vellumli) | [vellumli](https://www.curseforge.com/minecraft/mc-mods/vellumli) |
-| **Astral Core** | Majestic ecosystem — magic systems | _pending_ | [astral‑core](https://www.curseforge.com/minecraft/mc-mods/astral-core) |
-| **Almanac Core** | Majestic ecosystem — content-as-data | _pending_ | [almanac‑core](https://www.curseforge.com/minecraft/mc-mods/almanac-core) |
-| **Expedition Core** | Majestic ecosystem — adventure/world | _pending_ | [expedition‑core](https://www.curseforge.com/minecraft/mc-mods/expedition-core) |
+| **Utility Core** | All mods | [Utility Core](https://github.com/codex-skd/utility-core) | [Utility Core](https://www.curseforge.com/minecraft/mc-mods/utility-core) |
+| **Common Toolkit** | Fork of Placebo (MIT + LGPL-2.1) | [Common Toolkit](https://github.com/codex-skd/common-toolkit) | [Common Toolkit](https://www.curseforge.com/minecraft/mc-mods/common-toolkit) |
+| **Regalia Slots API** | Curios-compatible slots (fork of Curios API, LGPL-3.0) | [Regalia Slots API](https://github.com/codex-skd/regalia-slots-api) | [Regalia Slots API](https://www.curseforge.com/minecraft/mc-mods/regalia-slots-api) |
+| **Vellumli** | Patchouli-style guide books | [Vellumli](https://github.com/codex-skd/vellumli) | [Vellumli](https://www.curseforge.com/minecraft/mc-mods/vellumli) |
+| **Astral Core** | Majestic ecosystem — magic systems | _pending_ | [Astral Core](https://www.curseforge.com/minecraft/mc-mods/astral-core) |
+| **Almanac Core** | Majestic ecosystem — content-as-data | _pending_ | [Almanac Core](https://www.curseforge.com/minecraft/mc-mods/almanac-core) |
+| **Expedition Core** | Majestic ecosystem — adventure/world | _pending_ | [Expedition Core](https://www.curseforge.com/minecraft/mc-mods/expedition-core) |
 
 ---
 
@@ -84,11 +86,7 @@
 
 ## 🌐 Quick Links
 
-| | |
-| :--- | :--- |
-| 🌍 **Website** | [codex.skdragons.com](https://codex.skdragons.com) |
-| 📦 **CurseForge** | [curseforge.com/members/llaguit0/projects](https://www.curseforge.com/members/llaguit0/projects) |
-| 🐱 **GitHub** | [github.com/codex-skd](https://github.com/codex-skd) |
+🌍 [**Website**](https://codex.skdragons.com) · 📦 [**CurseForge**](https://www.curseforge.com/members/llaguit0/projects) · 🐱 [**GitHub**](https://github.com/codex-skd)
 
 ---
 
