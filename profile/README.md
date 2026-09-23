@@ -45,7 +45,7 @@
 >
 > **Utility Core vs. Utility Nexus**: same feature family, split by Minecraft version — `Utility Core *` targets **26.2** (and the 26.1.2 legacy build), `Utility Nexus *` is the standalone **1.21.1** back-port. Match by suffix (Admin↔Admin, QoL↔QoL).
 >
-> Retired (license/port audit, 2026-09-03): Ascendant Attributes/Enchanting/Equipment/Spawners, Cataclysm Bosses, Dinamyc Combat, Nautilus API, Slaughter Hide. **Player Animation Core** was also listed as retired here, but its repo shows active development through v1.1.0 (NeoForge 26.2.0.57) — pending confirmation of its real status before it's added back to this table.
+> Retired (license/port audit, 2026-09-03): Ascendant Attributes/Enchanting/Equipment/Spawners, Cataclysm Bosses, Dinamyc Combat, Nautilus API, Player Animation Core, Slaughter Hide.
 
 ---
 
@@ -55,7 +55,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **EnchantVenture Fixes** | 🧱 Data Pack | `26.2` | `0.0.0-beta.11` 🚧 | [EnchantVenture Fixes](https://github.com/codex-skd/enchantventure-fixes) | [EnchantVenture Fixes](https://www.curseforge.com/minecraft/data-packs/enchantventure-fixes) |
 | **EnchantVenture Pack** | 🌍 Resource Pack | `26.2` | `1.7.0` ✅ | [EnchantVenture Pack](https://github.com/codex-skd/enchantventure-pack) | [EnchantVenture Pack](https://www.curseforge.com/minecraft/texture-packs/enchantventure-translations) |
-| **Mystical Realms Data-Pack** | 🧱 Data Pack | `1.21.1` | `1.0.0-beta.6` 🚧 | _pending_ | [Mystical Realms Data-Pack](https://www.curseforge.com/minecraft/data-packs/mystical-realms-data-pack) |
+| **Mystical Realms Data-Pack** | 🧱 Data Pack | `1.21.1` | `1.0.0-beta.6` 🚧 | [Mystical Realms Data-Pack](https://github.com/codex-skd/mystical-realms-data-pack) | [Mystical Realms Data-Pack](https://www.curseforge.com/minecraft/data-packs/mystical-realms-data-pack) |
 | **Mystical Realms Translation & Fixes** | 🌍 Resource Pack | `1.21.1` | `1.0.1` ✅ | [Mystical Realms Translation & Fixes](https://github.com/codex-skd/mystical-realms-resource-pack) | [Mystical Realms Translation & Fixes](https://www.curseforge.com/minecraft/resource-packs/mystical-realms-translation-fixes) |
 
 ---
